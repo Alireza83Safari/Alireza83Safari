@@ -2,12 +2,12 @@
 Hi Im Alireza Safari. <br>
 Im Front-end Developer with  ReactJS.
 <br>
-<h2>My Stack:</h2>
+
 <div>
+ <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Alireza83Safari&show_icons=true&theme=radical" /> 
  <br/>
- <br/>
-  
+  <h2>My Stack:</h2>
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -16,7 +16,8 @@ Im Front-end Developer with  ReactJS.
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br/>
  <br/>
  <div>
